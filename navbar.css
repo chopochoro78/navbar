@@ -1,0 +1,18 @@
+.nav-enlace{
+    display: inline-block;
+    background: yellow;
+    color: blue;
+    padding: 10px 30px;
+    text-decoration: none;
+}
+
+.nav-enlace:hover{
+    background: silver;
+}
+
+nav{
+    background: red;
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+}
